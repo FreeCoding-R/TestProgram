@@ -1,4 +1,4 @@
-pipeline {
+﻿pipeline {
     agent any
     tools {
         maven 'Maven' //引号里的Maven不要改
